@@ -1,2 +1,2 @@
 # Design-Patterns
-Design-Patterns
+Head-First-Design-Pattern
